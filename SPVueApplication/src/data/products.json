@@ -1,0 +1,58 @@
+[
+  {
+    "price": "959",
+    "category": "T-Shirts",
+    "imageURL": "https://cdn.pixabay.com/photo/2016/12/06/09/30/blank-1886001_1280.png",
+    "id": "001",
+    "title": "T-Shirt -1"
+  },
+  {
+    "price": "9592",
+    "category": "T-Shirts",
+    "imageURL": "https://cdn.pixabay.com/photo/2016/12/06/09/30/blank-1886001_1280.png",
+    "id": "002",
+    "title": "T-Shirt 2"
+  },
+  {
+    "price": "5214",
+    "category": "T-Shirts",
+    "imageURL": "https://cdn.pixabay.com/photo/2016/12/06/09/30/blank-1886001_1280.png",
+    "id": "003",
+    "title": "T-Shirt -3"
+  },
+  {
+    "price": "7458",
+    "category": "T-Shirts",
+    "imageURL": "https://cdn.pixabay.com/photo/2016/12/06/09/30/blank-1886001_1280.png",
+    "id": "004",
+    "title": "T-Shirt 4"
+  },
+  {
+    "price": "959",
+    "category": "T-Shirts",
+    "imageURL": "https://cdn.pixabay.com/photo/2016/12/06/09/30/blank-1886001_1280.png",
+    "id": "005",
+    "title": "T-Shirt -5"
+  },
+  {
+    "price": "9592",
+    "category": "T-Shirts",
+    "imageURL": "https://cdn.pixabay.com/photo/2016/12/06/09/30/blank-1886001_1280.png",
+    "id": "006",
+    "title": "T-Shirt 6"
+  },
+  {
+    "price": "5214",
+    "category": "T-Shirts",
+    "imageURL": "https://cdn.pixabay.com/photo/2016/12/06/09/30/blank-1886001_1280.png",
+    "id": "007",
+    "title": "T-Shirt -7"
+  },
+  {
+    "price": "7458",
+    "category": "T-Shirts",
+    "imageURL": "https://cdn.pixabay.com/photo/2016/12/06/09/30/blank-1886001_1280.png",
+    "id": "008",
+    "title": "T-Shirt 8"
+  }
+]
